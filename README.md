@@ -22,4 +22,4 @@
 ---
 
 **💼 Ready to leverage these skills in data-driven roles.**  
-📫 **Connect:** https://www.linkedin.com/in/mohamednasr24/
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/mohamednasr24/)   
