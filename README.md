@@ -63,7 +63,7 @@ This repository contains materials and resources for the "T-SQL Queries Using SQ
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mohamed-Nasr24/sql-tsql-mastery-ITI
+   git clone https://github.com/Mohamed-Nasr24/sql-tsql-mastery-ITI/tree/main
 [Install SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) and [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 
 
