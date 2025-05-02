@@ -55,8 +55,7 @@ This repository contains materials and resources for the "T-SQL Queries Using SQ
 - PIVOT & UNPIVOT operations
 
 ## Prerequisites
-- Basic computer literacy
-- No prior database experience required (for beginner modules)
+- Completion of the Introduction to Databases course
 - SQL Server and SSMS installed (installation covered in course)
 
 ## Getting Started
